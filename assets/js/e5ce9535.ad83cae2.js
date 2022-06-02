@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_note=self.webpackChunkjava_note||[]).push([[9508],{1167:function(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/java-note/blog/tags/facebook","allTagsPath":"/java-note/blog/tags","count":1}')}}]);

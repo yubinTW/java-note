@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_note=self.webpackChunkjava_note||[]).push([[9645],{6761:function(e){e.exports=JSON.parse('{"permalink":"/java-note/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
